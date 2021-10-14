@@ -348,6 +348,9 @@ body {
   }
 }
 @media (max-width: 460px){
+  .button{
+    padding: 12px;
+  }
   .session-date-item{
     width: 77px;
     height: 77px;
@@ -374,7 +377,5 @@ body {
     flex-wrap: wrap;
     padding: 22px 0;
   }
-  .button{
-    padding: 12px;
-  }
+  
 }
