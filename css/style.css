@@ -349,8 +349,8 @@ body {
 }
 @media (max-width: 460px){
   .session-date-item{
-    width: 80px;
-    height: 80px;
+    width: 77px;
+    height: 77px;
     margin-right: 10px;
   }
   .session-date-item:hover {
